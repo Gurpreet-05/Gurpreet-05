@@ -5,7 +5,7 @@
 ## 👨‍🎓 About Me
 
 I’m an **undergraduate student in Mathematics and Computing Engineering at Delhi Technological University (DTU)**.  
-Passionate about **full-stack development**, system design, and building impactful products. I love solving problems and continuously learning new technologies.
+Passionate about **full-stack development** and building impactful products. I love solving problems and continuously learning new technologies.
 
 ---
 
@@ -41,11 +41,5 @@ Passionate about **full-stack development**, system design, and building impactf
 
 ---
 
-## 📊 GitHub Stats
-
-![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
-
----
 
 ⭐️ _Thanks for visiting my profile! Let's connect and build something amazing together!_
